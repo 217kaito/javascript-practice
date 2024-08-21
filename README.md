@@ -1,2 +1,2 @@
 # react-practice
-try to use react
+try to use react.
