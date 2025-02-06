@@ -1,2 +1,2 @@
-# react-practice
-try to use react.
+# javascript-practice
+try to use javascript.
